@@ -1,4 +1,4 @@
--- Perform DCL QUERY COMMAND
+-- Perform DQl  QUERY COMMAND With using Different Clauses
 
 show databases;
 use employeedb;
